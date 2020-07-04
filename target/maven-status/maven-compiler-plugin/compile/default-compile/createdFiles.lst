@@ -1,0 +1,8 @@
+net\overcrave\signtracker\Commands\BaseCmd.class
+net\overcrave\signtracker\Loggers\SignPlacementLogger.class
+net\overcrave\signtracker\Main.class
+net\overcrave\signtracker\Settings\PermSettings.class
+net\overcrave\signtracker\Settings\SettingsCore.class
+net\overcrave\signtracker\Settings\Messages.class
+net\overcrave\signtracker\Listeners\SignPlacementListener.class
+net\overcrave\signtracker\Settings\BaseSettings.class
