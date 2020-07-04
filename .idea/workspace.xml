@@ -24,7 +24,23 @@
   <component name="ChangeListManager">
     <list default="true" id="d1c17c47-fbb7-4031-9491-8a923a172485" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Commands/BaseCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Commands/BaseCmd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Listeners/SignPlacementListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Listeners/SignPlacementListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Loggers/SignPlacementLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Loggers/SignPlacementLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Settings/BaseSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Settings/BaseSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Settings/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Settings/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Settings/PermSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Settings/PermSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/overcrave/signtracker/Settings/SettingsCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/overcrave/SignTracker/Settings/SettingsCore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-signtracker-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/signtracker-2.0-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/signtracker-2.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,22 +184,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593890651385" />
-    <state width="1877" height="177" key="GridCell.Tab.0.bottom" timestamp="1593891209600">
+    <state width="1877" height="177" key="GridCell.Tab.0.bottom" timestamp="1593891519024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891209600" />
-    <state width="1877" height="177" key="GridCell.Tab.0.center" timestamp="1593891209600">
+    <state width="1877" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891519024" />
+    <state width="1877" height="177" key="GridCell.Tab.0.center" timestamp="1593891519024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="177" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891209600" />
-    <state width="1877" height="177" key="GridCell.Tab.0.left" timestamp="1593891209600">
+    <state width="1877" height="177" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891519024" />
+    <state width="1877" height="177" key="GridCell.Tab.0.left" timestamp="1593891519024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="177" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891209600" />
-    <state width="1877" height="177" key="GridCell.Tab.0.right" timestamp="1593891209600">
+    <state width="1877" height="177" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891519024" />
+    <state width="1877" height="177" key="GridCell.Tab.0.right" timestamp="1593891519024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="177" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891209600" />
+    <state width="1877" height="177" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-95.1920.1040@0.0.1920.1040" timestamp="1593891519024" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1593891002262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
