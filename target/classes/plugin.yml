@@ -1,7 +1,6 @@
 name: SignTracker
 main: net.overcrave.signtracker.Main
-version: 2.0
-api-version: 1.13
+version: 2.1
 description: "tracks and logs players sign placements."
 author: OverCrave
 commands:
