@@ -23,7 +23,7 @@
           <relocations>
             <relocation>
               <pattern>org.bstats</pattern>
-              <shadedPattern>net.overcrave.signtracker</shadedPattern>
+              <shadedPattern>net.overcrave.SignTracker</shadedPattern>
             </relocation>
           </relocations>
         </configuration>
@@ -60,34 +60,12 @@
           <groupId>com.google.guava</groupId>
         </exclusion>
         <exclusion>
-          <artifactId>gson</artifactId>
-          <groupId>com.google.code.gson</groupId>
-        </exclusion>
-        <exclusion>
           <artifactId>bungeecord-chat</artifactId>
           <groupId>net.md-5</groupId>
         </exclusion>
         <exclusion>
           <artifactId>snakeyaml</artifactId>
           <groupId>org.yaml</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>net.milkbowl.vault</groupId>
-      <artifactId>VaultAPI</artifactId>
-      <version>1.7</version>
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
-      <groupId>net.overcrave</groupId>
-      <artifactId>toml4j</artifactId>
-      <version>0.8</version>
-      <scope>provided</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>gson</artifactId>
-          <groupId>com.google.code.gson</groupId>
         </exclusion>
       </exclusions>
     </dependency>
