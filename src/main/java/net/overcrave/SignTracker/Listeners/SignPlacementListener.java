@@ -1,10 +1,8 @@
 package net.overcrave.SignTracker.Listeners;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import net.overcrave.SignTracker.Loggers.SignPlacementLogger;
 import net.overcrave.SignTracker.Main;
 import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
