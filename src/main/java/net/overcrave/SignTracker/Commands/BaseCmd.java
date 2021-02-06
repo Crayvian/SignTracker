@@ -1,6 +1,6 @@
-package net.overcrave.signtracker.Commands;
+package net.overcrave.SignTracker.Commands;
 
-import net.overcrave.signtracker.Main;
+import net.overcrave.SignTracker.Main;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

@@ -1,11 +1,11 @@
-package net.overcrave.signtracker;
+package net.overcrave.SignTracker;
 
 import com.moandjiezana.toml.Toml;
 import com.moandjiezana.toml.TomlWriter;
 import net.milkbowl.vault.permission.Permission;
-import net.overcrave.signtracker.Commands.BaseCmd;
-import net.overcrave.signtracker.Listeners.SignPlacementListener;
-import net.overcrave.signtracker.Settings.SettingsCore;
+import net.overcrave.SignTracker.Commands.BaseCmd;
+import net.overcrave.SignTracker.Listeners.SignPlacementListener;
+import net.overcrave.SignTracker.Settings.SettingsCore;
 import org.bstats.bukkit.MetricsLite;
 import org.bukkit.ChatColor;
 import org.bukkit.command.ConsoleCommandSender;

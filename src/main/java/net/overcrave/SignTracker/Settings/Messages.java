@@ -1,4 +1,4 @@
-package net.overcrave.signtracker.Settings;
+package net.overcrave.SignTracker.Settings;
 
 public class Messages {
     public String prefix;
