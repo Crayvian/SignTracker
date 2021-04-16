@@ -1,7 +1,7 @@
-package net.overcrave.SignTracker.Listeners;
+package com.rubygenix.SignTracker.Listeners;
 
-import net.overcrave.SignTracker.Loggers.SignPlacementLogger;
-import net.overcrave.SignTracker.Main;
+import com.rubygenix.SignTracker.Loggers.SignPlacementLogger;
+import com.rubygenix.SignTracker.Main;
 import org.bukkit.Bukkit;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;

@@ -1,4 +1,4 @@
-package net.overcrave.SignTracker.Settings;
+package com.rubygenix.SignTracker.Settings;
 
 public class Messages {
     public String prefix;

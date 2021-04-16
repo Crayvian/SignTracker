@@ -1,11 +1,11 @@
-package net.overcrave.SignTracker;
+package com.rubygenix.SignTracker;
 
 import com.moandjiezana.toml.Toml;
 import com.moandjiezana.toml.TomlWriter;
+import com.rubygenix.SignTracker.Commands.BaseCmd;
+import com.rubygenix.SignTracker.Settings.SettingsCore;
 import net.milkbowl.vault.permission.Permission;
-import net.overcrave.SignTracker.Commands.BaseCmd;
-import net.overcrave.SignTracker.Listeners.SignPlacementListener;
-import net.overcrave.SignTracker.Settings.SettingsCore;
+import com.rubygenix.SignTracker.Listeners.SignPlacementListener;
 import org.bstats.bukkit.MetricsLite;
 import org.bukkit.ChatColor;
 import org.bukkit.command.ConsoleCommandSender;
