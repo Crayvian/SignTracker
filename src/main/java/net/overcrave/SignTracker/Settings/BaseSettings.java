@@ -1,4 +1,4 @@
-package com.rubygenix.SignTracker.Settings;
+package net.overcrave.SignTracker.Settings;
 
 import java.util.Arrays;
 import java.util.List;

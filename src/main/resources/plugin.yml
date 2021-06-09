@@ -1,9 +1,9 @@
 name: SignTracker
-main: com.rubygenix.SignTracker.Main
-version: 2.2
+main: net.overcrave.signtracker.Main
+version: 2.1
 description: "tracks and logs players sign placements."
-author: Rubyblex
-api-version: 1.16
+author: OverCrave
+api-version: 1.13
 commands:
   signtracker:
     description: "Base Command"

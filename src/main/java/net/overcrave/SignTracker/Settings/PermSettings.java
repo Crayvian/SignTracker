@@ -1,4 +1,4 @@
-package com.rubygenix.SignTracker.Settings;
+package net.overcrave.SignTracker.Settings;
 
 public class PermSettings {
     public boolean printLogToPerm;
