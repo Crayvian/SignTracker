@@ -6,7 +6,6 @@ import net.milkbowl.vault.permission.Permission;
 import net.overcrave.SignTracker.Commands.BaseCmd;
 import net.overcrave.SignTracker.Listeners.SignPlacementListener;
 import net.overcrave.SignTracker.Settings.SettingsCore;
-import org.bstats.bukkit.MetricsLite;
 import org.bukkit.ChatColor;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.plugin.RegisteredServiceProvider;
@@ -23,14 +22,12 @@ public class Main extends JavaPlugin {
     public static SettingsCore settings = new SettingsCore();
     public static String PluginLabel;
     public static ConsoleCommandSender console;
-    public static MetricsLite metrics;
 
     @Override
     public void onLoad() {
         I = this;
         perms = null;
         console = I.getServer().getConsoleSender();
-        metrics = new MetricsLite(I);
     }
 
     @Override
