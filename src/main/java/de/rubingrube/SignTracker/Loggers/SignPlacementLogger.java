@@ -1,6 +1,6 @@
-package net.overcrave.SignTracker.Loggers;
+package de.rubingrube.SignTracker.Loggers;
 
-import net.overcrave.SignTracker.Main;
+import de.rubingrube.SignTracker.Main;
 import org.bukkit.ChatColor;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;

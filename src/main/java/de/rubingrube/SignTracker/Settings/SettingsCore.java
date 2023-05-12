@@ -1,4 +1,4 @@
-package net.overcrave.SignTracker.Settings;
+package de.rubingrube.SignTracker.Settings;
 
 public class SettingsCore {
     public BaseSettings baseSettings;

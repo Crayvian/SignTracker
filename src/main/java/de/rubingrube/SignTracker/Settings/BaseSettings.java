@@ -1,4 +1,4 @@
-package net.overcrave.SignTracker.Settings;
+package de.rubingrube.SignTracker.Settings;
 
 import java.util.Arrays;
 import java.util.List;

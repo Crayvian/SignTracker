@@ -1,6 +1,6 @@
-package net.overcrave.SignTracker.Commands;
+package de.rubingrube.SignTracker.Commands;
 
-import net.overcrave.SignTracker.Main;
+import de.rubingrube.SignTracker.Main;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
