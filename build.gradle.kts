@@ -16,7 +16,6 @@ dependencies {
     compileOnly("org.purpurmc.purpur", "purpur-api", "1.19.4-R0.1-SNAPSHOT")
     compileOnly("com.github.MilkBowl:VaultAPI:1.7");
     implementation("com.moandjiezana.toml:toml4j:0.7.2");
-    compileOnly("org.bstats:bstats-bukkit:2.2.1");
 }
 
 java {

@@ -10,7 +10,6 @@ import org.bukkit.ChatColor;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bstats.bukkit.Metrics;
 
 import java.io.File;
 import java.io.IOException;
@@ -23,11 +22,9 @@ public class Main extends JavaPlugin {
     public static SettingsCore settings = new SettingsCore();
     public static String PluginLabel;
     public static ConsoleCommandSender console;
-    public static Metrics metrics;
 
     @Override
     public void onLoad() {
-        metrics = new Metrics(this, 3779);
         I = this;
         perms = null;
         console = I.getServer().getConsoleSender();
